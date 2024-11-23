@@ -1,5 +1,5 @@
-# TypeSafe CSS
+# TypeCode CSS
 
-Minimal CSS optimized for reading and writing (only 753 bytes)
+Typesafe but for coding blogs and stuff related to code. (only 711 B)
 
-Check out the live demo / documentation: https://uglyduck.ca/typesafe-css/ & https://uglyduck.ca/typesafe-sans-css/
+Check out the live demo / documentation: https://codepen.io/PatoFlamejanteTV/pen/oNKKmRX?editors=0100
